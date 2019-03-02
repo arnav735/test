@@ -3,7 +3,7 @@ b=10;
 c=(a+b)/a;
 e=c*d;
 f=d+e;
-++g=a*b*c
+g=a*b*c
 
 
 
